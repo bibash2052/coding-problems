@@ -7,7 +7,7 @@
 // as many times as necessary. Given this information, determine the lowest cost method to produce this pyramid.
 //
 // For example, given the stones [1, 1, 3, 3, 2, 1], the optimal solution is to pay 2 to create [0, 1, 2, 3, 2, 1].
-package com.company.PyramidProblem;
+package com.coding.problems.PyramidProblem;
 
 public class PyramidProblem {
 }

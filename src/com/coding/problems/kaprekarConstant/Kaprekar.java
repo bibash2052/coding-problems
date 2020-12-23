@@ -12,7 +12,7 @@
 //        8532 - 2358 = 6174
 //        Write a function that returns how many steps this will take for a given input N.
 //This problem has been solved using recursion.
-package com.company.kaprekarConstant;
+package com.coding.problems.kaprekarConstant;
 
 import java.util.ArrayList;
 import java.util.Collections;

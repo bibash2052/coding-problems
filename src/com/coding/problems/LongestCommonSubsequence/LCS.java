@@ -1,4 +1,4 @@
-package com.company.LongestCommonSubsequence;
+package com.coding.problems.LongestCommonSubsequence;
 
 public class LCS {
     public static void main(String[] args) {

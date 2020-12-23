@@ -5,7 +5,7 @@
 //For example, given the array [3, 7, 8, 3, 6, 1], you should return 3,
 //since the top floors of the buildings with heights 8, 6, and 1 all have an unobstructed view to the west.
 
-package com.company.UnobstructedView;
+package com.coding.problems.UnobstructedView;
 
 public class UnObstructedView {
     public static void main(String[] args) {

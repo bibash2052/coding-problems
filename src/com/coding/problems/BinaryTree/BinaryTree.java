@@ -1,4 +1,4 @@
-package com.company.BinaryTree;
+package com.coding.problems.BinaryTree;
 
 class Node {
     int value;
